@@ -16,17 +16,3 @@
 		<img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </div>
 
-<br>
-
-<h3 align="center">Language</h3>
-<div align="center">
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yereong&layout=compact)
-
-</div>
-
-<div align="center">
-
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=yereong&show_icons=true&theme=radical)
-
-</div>
