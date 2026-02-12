@@ -1,18 +1,28 @@
-<br>
+<h2 align="left"> 안녕하세요, 프론트엔드 개발자 조예령입니다!</h2>
 
-<h3 align="center">💻 Tech Stack 💻</h3>
+### ✨ 책임감 있는 협업을 지향합니다
 
-<div align="center">
-	<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src = "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src = "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</div>
+> 프로젝트에 애정을 가지고 서비스에 실질적으로 기여할 방법을 고민합니다.
+맡은 영역은 책임감을 가지고 기한 내 완수하며, <br/>
+> 백엔드·기획·디자인과의 협업 속에서 시스템 흐름을 이해하고
+문서화를 통해 효율적인 소통을 지향합니다.
 
-<br>
+<br/>
 
-<h3 align="center">✉️ Contact ✉️</h3>
-<div align="center">
-	<a href="https://www.instagram.com/tkfdkgwnj">
-		<img src = "https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+## 🛠 Tech Stack
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,vite,tailwind,css,sass&theme=dark)](https://skillicons.dev)
+
+### Deployment & DB
+[![My Skills](https://skillicons.dev/icons?i=vercel,mysql&theme=dark)](https://skillicons.dev)
+
+
+<br/>
+
+<div align='left'>
+	<a href="https://github.com/devxb/gitanimals">
+  		<img src="https://render.gitanimals.org/farms/yereong"/>
+	</a>
 </div>
 
